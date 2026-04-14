@@ -72,17 +72,19 @@ ScreenShots:
 
 Home Page:
 
-<img width="1920" height="5238" alt="image" src="https://github.com/user-attachments/assets/3be6feca-31fc-476d-bd9b-2682b1c999bb" />
+<img width="1920" height="1457" alt="image" src="https://github.com/user-attachments/assets/01c8b975-8163-4ebb-a2c3-86cd3e095998" />
 
 <br><br>
 
 Courses Page:
-<img width="1920" height="3023" alt="image" src="https://github.com/user-attachments/assets/98188e3a-bc59-443c-8331-90c94e98c755" />
+
+<img width="1920" height="3023" alt="image" src="https://github.com/user-attachments/assets/4e73ed6d-1f17-4258-8d15-e6096c22c3ba" />
 
 <br><br>
 
 Contact Page:
-<img width="1920" height="1457" alt="image" src="https://github.com/user-attachments/assets/6c4873b0-e7da-474e-80e2-30e35cbdb54e" />
+
+<img width="1920" height="5238" alt="image" src="https://github.com/user-attachments/assets/ebd5007f-b89b-4898-989e-a6640482cd17" />
 
 <br><br>
 
@@ -92,4 +94,4 @@ Contact Page:
 
 Linkdin profile:
 
-https://www.linkedin.com/in/anant-soni-b737662a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://www.linkedin.com/in/anant-soni-b737662a2/
