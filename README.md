@@ -71,11 +71,14 @@ http://localhost:3000
 ScreenShots:
 
 Home Page:
+
 <img width="1920" height="5238" alt="image" src="https://github.com/user-attachments/assets/3be6feca-31fc-476d-bd9b-2682b1c999bb" />
+
 <br><br>
 
 Courses Page:
 <img width="1920" height="3023" alt="image" src="https://github.com/user-attachments/assets/98188e3a-bc59-443c-8331-90c94e98c755" />
+
 <br><br>
 
 Contact Page:
