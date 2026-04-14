@@ -1,0 +1,62 @@
+# 🎵 Music Zone - Next.js Web App
+
+A modern and responsive web application built using **Next.js** to showcase music courses with a clean UI and interactive components.
+
+---
+
+## 🚀 Features
+
+- ⚡ Built with Next.js (App Router)
+- 🎨 Fully responsive design (Mobile, Tablet, Desktop)
+- 📂 Dynamic course listing using JSON data
+- 🧩 Reusable component-based architecture
+- 🎴 Interactive 3D card UI with hover effects
+- 🌙 Dark theme modern UI
+- 📄 Multiple pages (Home, Courses, Contact)
+- ⚡ Optimized performance and fast rendering
+
+---
+
+## 🧱 Tech Stack
+
+- Next.js (App Router)
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+
+---
+
+## 📁 Project Structure
+
+
+src/
+├── app/
+│ ├── page.tsx # Home Page
+│ ├── courses/ # Courses Page
+│ ├── contact/ # Contact Page
+│
+├── components/
+│ ├── ui/ # UI components (3D cards etc.)
+│ ├── Navbar.tsx
+│ ├── Footer.tsx
+│
+├── data/
+│ └── music_courses.json # Course data
+
+
+---
+
+## 🖥️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/Theanantsoni/TextUtils-ReactJS
+
+# Navigate to project
+cd music-zone
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
