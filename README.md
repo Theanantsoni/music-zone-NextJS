@@ -66,6 +66,8 @@ npm run dev
 
 http://localhost:3000
 
+```
+
 <br><br>
 
 ScreenShots:
@@ -92,6 +94,6 @@ Contact Page:
 
 <br><br>
 
-Linkdin profile:
+LinkedIn Profile Link:
 
-https://www.linkedin.com/in/anant-soni-b737662a2/
+https://www.linkedin.com/in/anant-soni-b737662a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
