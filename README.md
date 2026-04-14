@@ -29,7 +29,7 @@ A modern and responsive web application built using **Next.js** to showcase musi
 
 ## 📁 Project Structure
 
-
+```bash
 src/
 ├── app/
 │ ├── page.tsx # Home Page
@@ -43,6 +43,7 @@ src/
 │
 ├── data/
 │ └── music_courses.json # Course data
+```
 
 
 ---
