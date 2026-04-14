@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎵 Music Zone - Next.js Web App
+Author: Anant Soni
 
-## Getting Started
+A modern and responsive web application built using **Next.js** to showcase music courses with a clean UI and interactive components.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+- ⚡ Built with Next.js (App Router)
+- 🎨 Fully responsive design (Mobile, Tablet, Desktop)
+- 📂 Dynamic course listing using JSON data
+- 🧩 Reusable component-based architecture
+- 🎴 Interactive 3D card UI with hover effects
+- 🌙 Dark theme modern UI
+- 📄 Multiple pages (Home, Courses, Contact)
+- ⚡ Optimized performance and fast rendering
+
+---
+
+## 🧱 Tech Stack
+
+- Next.js (App Router)
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+
+---
+
+## 📁 Project Structure
+
+
+src/
+├── app/
+│ ├── page.tsx # Home Page
+│ ├── courses/ # Courses Page
+│ ├── contact/ # Contact Page
+│
+├── components/
+│ ├── ui/ # UI components (3D cards etc.)
+│ ├── Navbar.tsx
+│ ├── Footer.tsx
+│
+├── data/
+│ └── music_courses.json # Course data
+
+
+---
+
+## 🖥️ Installation & Setup
 
 ```bash
+# Clone the repository
+git clone https://github.com/Theanantsoni/TextUtils-ReactJS
+
+# Navigate to project
+cd music-zone
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👉 Open in browser:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<br><br>
 
-## Learn More
+ScreenShots:
 
-To learn more about Next.js, take a look at the following resources:
+Home Page:
+<img width="1920" height="5238" alt="image" src="https://github.com/user-attachments/assets/3be6feca-31fc-476d-bd9b-2682b1c999bb" />
+<br><br>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Courses Page:
+<img width="1920" height="3023" alt="image" src="https://github.com/user-attachments/assets/98188e3a-bc59-443c-8331-90c94e98c755" />
+<br><br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Contact Page:
+<img width="1920" height="1457" alt="image" src="https://github.com/user-attachments/assets/6c4873b0-e7da-474e-80e2-30e35cbdb54e" />
 
-## Deploy on Vercel
+<br><br>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🎥 Watch Demo:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<br><br>
+
+Linkdin profile:
+
+https://www.linkedin.com/in/anant-soni-b737662a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
