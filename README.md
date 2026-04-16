@@ -93,6 +93,8 @@ Contact Page:
 
 🎥 Watch Demo:
 
+https://youtu.be/faJTy12o09s?si=6G_oVUsJEdlpT2Hm
+
 <br><br>
 
 LinkedIn Profile Link:
