@@ -75,7 +75,7 @@ http://localhost:3000
 
 Home Page:
 
-<img width="1920" height="1457" alt="image" src="https://github.com/user-attachments/assets/01c8b975-8163-4ebb-a2c3-86cd3e095998" />
+<img width="1920" height="5238" alt="image" src="https://github.com/user-attachments/assets/ebd5007f-b89b-4898-989e-a6640482cd17" />
 
 <br><br>
 
@@ -87,7 +87,8 @@ Courses Page:
 
 Contact Page:
 
-<img width="1920" height="5238" alt="image" src="https://github.com/user-attachments/assets/ebd5007f-b89b-4898-989e-a6640482cd17" />
+<img width="1920" height="1457" alt="image" src="https://github.com/user-attachments/assets/01c8b975-8163-4ebb-a2c3-86cd3e095998" />
+
 
 <br><br>
 
